@@ -1,6 +1,6 @@
 # go-serve
 
-https://hub.docker.com/repository/docker/youpy/go-serve
+https://hub.docker.com/r/youpy/go-serve
 
 ## Usage
 
